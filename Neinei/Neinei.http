@@ -1,0 +1,6 @@
+@Neinei_HostAddress = http://localhost:5009
+
+GET {{Neinei_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
